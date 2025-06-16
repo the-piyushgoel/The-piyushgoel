@@ -1,5 +1,5 @@
 # 💫 About Me:
-xyz
+👋 Hello! I’m Piyush Goel, a second year BTech student with a passion for web development and a strong foundation in Data Structures & Algorithms (DSA). I have hands-on experience with languages and technologies like HTML, CSS, JavaScript, along with a solid understanding of coding principles in C, C++, and Python. If you are eager to hire a Frontend developer, then do check out my profile!!
 
 
 ## 🌐 Socials:
