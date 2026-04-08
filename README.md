@@ -14,6 +14,11 @@
 
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
+
+## 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=the-piyushgoel&theme=transparent&hide_border=true&title_color=36BCF7&icon_color=36BCF7" alt="GitHub Streak" width="60%" />
+</div>
 <!-- # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=The-piyushgoel&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=The-piyushgoel&theme=dark&hide_border=false)<br/>
