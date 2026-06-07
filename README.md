@@ -15,6 +15,8 @@
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 
+<img src="https://komarev.com/ghpvc/?username=the-piyushgoel&label=Profile%20views&color=0e75b6&style=flat" alt="the-piyushgoel" />
+
 ## 📊 GitHub Stats
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=the-piyushgoel&theme=transparent&hide_border=true&title_color=36BCF7&icon_color=36BCF7" alt="GitHub Streak" width="60%" />
